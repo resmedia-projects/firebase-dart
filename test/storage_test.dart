@@ -1,7 +1,7 @@
 @TestOn('browser')
 import 'dart:convert';
 
-import 'package:firebase/firebase.dart';
+import 'package:firebase/firebase_web.dart';
 import 'package:firebase/src/assets/assets.dart';
 import 'package:path/path.dart' as p;
 import 'package:test/test.dart';

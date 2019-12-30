@@ -62,7 +62,7 @@ example how to use this library in the [example/firestore](example/firestore).
 ### Real-time Database Example 
 
 ```dart
-import 'package:firebase/firebase.dart';
+import 'package:firebase/firebase_web.dart';
 
 void main() {
   initializeApp(
@@ -85,8 +85,8 @@ void main() {
 ### Firestore Example
 
 ```dart
-import 'package:firebase/firebase.dart';
-import 'package:firebase/firestore.dart' as fs;
+import 'package:firebase/firebase_web.dart';
+import 'package:firebase/firestore_web.dart' as fs;
 
 void main() {
   initializeApp(

@@ -2,8 +2,8 @@
 import 'dart:async';
 import 'dart:typed_data';
 
-import 'package:firebase/firebase.dart' as fb;
-import 'package:firebase/firestore.dart' as fs;
+import 'package:firebase/firebase_web.dart' as fb;
+import 'package:firebase/firestore_web.dart' as fs;
 import 'package:firebase/src/assets/assets.dart';
 import 'package:test/test.dart';
 

@@ -1,7 +1,7 @@
 @JS()
 library messaging_demo.service_worker;
 
-import 'package:firebase/firebase.dart' as firebase;
+import 'package:firebase/firebase_web.dart' as firebase;
 import 'package:firebase/src/assets/assets.dart';
 import 'package:service_worker/worker.dart' as sw;
 

@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:html';
 
-import 'package:firebase/firebase.dart' as fb;
+import 'package:firebase/firebase_web.dart' as fb;
 import 'package:firebase/src/assets/assets.dart';
 
 void main() async {
